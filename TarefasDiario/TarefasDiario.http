@@ -1,0 +1,6 @@
+@TarefasDiario_HostAddress = http://localhost:5188
+
+GET {{TarefasDiario_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
